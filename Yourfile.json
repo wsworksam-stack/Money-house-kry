@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "73afd1b2e2ca4684",
+        "key": "SAMX",
+        "expirydate": "15-06-2025",
+        "Allowoffline": true
     }
 ]
