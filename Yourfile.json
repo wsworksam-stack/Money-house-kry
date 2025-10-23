@@ -16,5 +16,12 @@
         "key": "SAMX",
         "expirydate": "15-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "benco_AE9240_S231_25I25",
+        "key": "FAHIMONFIRE",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
     }
+    
 ]
