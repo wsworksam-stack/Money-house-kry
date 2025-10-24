@@ -22,6 +22,12 @@
         "key": "FAHIMONFIRE",
         "expirydate": "15-12-2026",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "3732fc32a5edc919",
+        "key": "TUHiN",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
+    },
     
 ]
